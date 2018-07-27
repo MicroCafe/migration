@@ -2,7 +2,7 @@
 
 A step by step plan to migrate existing monolithic application to micro-service architecture.
 
-# 1. [Break the Monolith](btm.md)
+# 1. [Break the Monolith](btm)
 Break an existing monolithic application to multiple services
 
 # 2 : Unite the Services

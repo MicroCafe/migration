@@ -8,5 +8,5 @@ Break an existing monolithic application to multiple services
 # 2 : [Unite the Services](uts)
 Unite the service using API Gateway and implement inter process communication
 
-# 3 : Maintain the Scale
+# 3 : [Maintain the Scale](mts)
 Add health check, monitoring and failure handling capablity
